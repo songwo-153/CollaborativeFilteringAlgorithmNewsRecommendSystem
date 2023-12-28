@@ -19,7 +19,7 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
  3. **相关推荐**
      推荐当前登录用户正在浏览的新闻相同类型下评分较高的新闻，同时推荐的是当前用户没有评分的新闻。
 **新闻数据来源**：爬取环球日报新闻数据
-**源码获取**： +v：18484646674   +QQ:2474345497
+
 **项目结果**
 ![代码结构](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/8feed5c9-352d-4bed-986c-f10f109bf761)
 ![数据库](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/e4dfeab7-f776-4e1e-a126-957baca47914)
