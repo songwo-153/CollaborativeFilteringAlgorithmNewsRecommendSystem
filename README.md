@@ -2,7 +2,7 @@
 # Collaborative Filtering News Recommend System Online
  基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的SSM框架实现基于用户、物品的协同过滤推荐算法）
 Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**基于用户、物品的协同过滤推荐算法**通过爬虫爬取环球日报新闻实现**实时计算推荐**。
-**开发工具**：IDEA，jdk1.8，Mysql8，navicat数据库管理工具，Tomcat。
+**开发工具**：IDEA，jdk1.8，Mysql8，navicat数据库管理工具，Tomcat，Maven.
 **后端使用**：SSM(Spring+SpringMVC+Mybatis)开发框架。
 **前端使用**：javascript脚本，jquery脚本，用户端使用bootstrap前端框架，管理员端使用layui前端框架，layer弹窗组件等。
 # 功能实现
@@ -20,24 +20,21 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
      推荐当前登录用户正在浏览的新闻相同类型下评分较高的新闻，同时推荐的是当前用户没有评分的新闻。
 **新闻数据来源**：爬取环球日报新闻数据
 
-**项目结果**
-![代码结构](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/8feed5c9-352d-4bed-986c-f10f109bf761)
-![数据库](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/e4dfeab7-f776-4e1e-a126-957baca47914)
+**项目结构**
+![项目结构](%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
+![数据库](%E6%95%B0%E6%8D%AE%E5%BA%93.png)
 **前台系统**
-![Inked首页](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/8dfa903f-3a78-4a85-854c-f6d2ce6c6be5)
-![Inked新闻查看](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/70bcd0e7-844c-49fd-89db-a2f448f56e64)
-![登录](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/cfce9455-8ac7-40fa-b0c6-906ccc5e8c49)
-![登录选择喜好标签](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/3ac79cf4-fcdb-47dc-90bd-4fb2bb17d2d0)
-![Inked个人中心](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/eae37196-e3f7-4526-80db-56c951a7a449)
-![Inked个人中心密码修改](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/c82926f8-b0ef-46f1-a405-1e5975d5772f)
-![Inked我的收藏](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/350c5de8-920d-41ff-920c-381c155fd50a)
-![兴趣标签](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/eda8c24e-5c5f-4e14-b6d3-adc854dff36b)
+![输入图片说明](%E6%96%B0%E9%97%BB%E9%A6%96%E9%A1%B5.jpg)
+![输入图片说明](Inked%E6%96%B0%E9%97%BB%E6%9F%A5%E7%9C%8B.jpg)
+![输入图片说明](%E6%B3%A8%E5%86%8C.jpg)
+![输入图片说明](%E9%80%89%E6%8B%A9%E5%85%B4%E8%B6%A3%E6%A0%87%E7%AD%BE.jpg)
+![输入图片说明](%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.jpg)
 **后台管理系统**
-![后台登录](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/d8e10202-902f-4f06-bc7b-ecc7b8cf033d)
-![后台首页](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/cda419f1-17c6-411b-8a61-0c1ae9ab2246)
-![Inked新闻管理](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/22526ea5-4cf9-4ef3-9cb9-2d49165462ea)
-![Inked用户管理](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/06fa51b6-3db7-461d-8fbd-c5ff0ad2fd42)
-![Inked管理员管理](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/ab09605d-5a8f-4978-a9d7-959bdf8147e8)
+![输入图片说明](Inked%E6%96%B0%E9%97%BB%E7%AE%A1%E7%90%86.jpg)
+**协同过滤推荐算法**
+![输入图片说明](%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E6%8E%A8%E8%8D%90.jpg)
+**Python爬取环球网新闻**
+![输入图片说明](Pythom%E7%88%AC%E5%8F%96%E7%8E%AF%E7%90%83%E7%BD%91%E6%96%B0%E9%97%BB%E6%95%B0%E6%8D%AE.png)
 **源码获取**：[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
 
 
