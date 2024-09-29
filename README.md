@@ -19,10 +19,7 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
  3. **相关推荐**：
      推荐当前登录用户正在浏览的新闻相同类型下评分较高的新闻，同时推荐的是当前用户没有评分的新闻。
 **新闻数据来源**：
-     爬取环球日报新闻数据
- **项目演示地址（2024-4-4到期）** ：
-前台：http://113.125.137.7:26/NewsRecommendOnline/
-后台：http://113.125.137.7:26/NewsRecommendOnline/admin/login   
+     爬取环球日报新闻数据  
 
 **源码获取**
 ![输入图片说明](%E6%BA%90%E7%A0%81%E8%8E%B7%E5%8F%96.png)
@@ -40,10 +37,7 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
 **协同过滤推荐算法**
 ![输入图片说明](%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E6%8E%A8%E8%8D%90.jpg)
 **Python爬取环球网新闻**
-![输入图片说明](Pythom%E7%88%AC%E5%8F%96%E7%8E%AF%E7%90%83%E7%BD%91%E6%96%B0%E9%97%BB%E6%95%B0%E6%8D%AE.png)
- **项目演示地址（2024-4-4到期）：** 
-前台：http://113.125.137.7:26/NewsRecommendOnline/
-后台：http://113.125.137.7:26/NewsRecommendOnline/admin/login           
+![输入图片说明](Pythom%E7%88%AC%E5%8F%96%E7%8E%AF%E7%90%83%E7%BD%91%E6%96%B0%E9%97%BB%E6%95%B0%E6%8D%AE.png)           
 **源码获取**：[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
 
 
