@@ -30,9 +30,9 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
 ![数据库](https://github.com/user-attachments/assets/cf42b259-4699-4059-b666-f2e4b89787e6)
 ![项目结构](https://github.com/user-attachments/assets/39ce7a44-8f6a-4abd-9756-e3f6157847da)
 
-**前台系统**
-![02](https://github.com/user-attachments/assets/a74d4a21-4e06-48ea-b849-77308a1f2cd5)
+**前台用户系统**
 ![01](https://github.com/user-attachments/assets/c2a90c89-4dcc-4c9d-ad5a-847e33de66f5)
+![02](https://github.com/user-attachments/assets/a74d4a21-4e06-48ea-b849-77308a1f2cd5)
 ![个人中心](https://github.com/user-attachments/assets/0784ab43-2c98-49de-9202-49f7bc56a119)
 ![个人中心兴趣标签](https://github.com/user-attachments/assets/87bed9ba-9aed-4eb1-a9fa-47ae87e06bbf)
 ![个人中心用户收藏](https://github.com/user-attachments/assets/9f74e8d9-b075-461d-900c-a23f161edb4c)
