@@ -1,4 +1,4 @@
-# 基于协同过滤算法的个性化新闻推荐系统
+![个人中心](https://github.com/user-attachments/assets/fb3b6826-78ba-49f7-94f2-22bcda4150ec)# 基于协同过滤算法的个性化新闻推荐系统
 # Collaborative Filtering News Recommend System Online
  基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的SSM框架实现基于用户、物品的协同过滤推荐算法）实现了UserCF和ItemCF的协同过滤推荐算法。
 Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**基于用户、物品的协同过滤推荐算法**通过**python爬虫**爬取环球日报新闻实现**实时计算推荐**。
@@ -26,19 +26,30 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
 ![image](https://github.com/user-attachments/assets/bfcbe910-6127-45ce-97c3-59a16cc3b36a)
 
 **项目结构**
+![数据库](https://github.com/user-attachments/assets/cf42b259-4699-4059-b666-f2e4b89787e6)
+![项目结构](https://github.com/user-attachments/assets/39ce7a44-8f6a-4abd-9756-e3f6157847da)
 
 **前台系统**
-![输入图片说明](%E6%96%B0%E9%97%BB%E9%A6%96%E9%A1%B5.jpg)
-![输入图片说明](Inked%E6%96%B0%E9%97%BB%E6%9F%A5%E7%9C%8B.jpg)
-![输入图片说明](%E6%B3%A8%E5%86%8C.jpg)
-![输入图片说明](%E9%80%89%E6%8B%A9%E5%85%B4%E8%B6%A3%E6%A0%87%E7%AD%BE.jpg)
-![输入图片说明](%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.jpg)
+![02](https://github.com/user-attachments/assets/a74d4a21-4e06-48ea-b849-77308a1f2cd5)
+![01](https://github.com/user-attachments/assets/c2a90c89-4dcc-4c9d-ad5a-847e33de66f5)
+![个人中心](https://github.com/user-attachments/assets/0784ab43-2c98-49de-9202-49f7bc56a119)
+![个人中心兴趣标签](https://github.com/user-attachments/assets/87bed9ba-9aed-4eb1-a9fa-47ae87e06bbf)
+![个人中心用户收藏](https://github.com/user-attachments/assets/9f74e8d9-b075-461d-900c-a23f161edb4c)
+
 **后台管理系统**
-![输入图片说明](Inked%E6%96%B0%E9%97%BB%E7%AE%A1%E7%90%86.jpg)
+![后台登录](https://github.com/user-attachments/assets/0ebb9706-76ee-451e-a4d1-cce2deddeede)
+![后台管理首页](https://github.com/user-attachments/assets/2129910e-7d65-474c-a1ed-68b4dd8596ff)
+![后台管理新闻管理](https://github.com/user-attachments/assets/7828732f-5c93-42e2-906e-0dedfa127bde)
+![后台管理管理员管理](https://github.com/user-attachments/assets/59c9de84-2198-4fb5-bacc-42ff867aeba2)
+![后台管理用户管理](https://github.com/user-attachments/assets/98c8f79b-bc1d-49a0-8106-8368302c37b3)
+
 **协同过滤推荐算法**
-![输入图片说明](%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E6%8E%A8%E8%8D%90.jpg)
+![01基于用户推荐](https://github.com/user-attachments/assets/271a8e6b-6fce-4fb3-9a5b-6529eaf49ff3)
+![基于物品的推荐](https://github.com/user-attachments/assets/bc22e8c7-1c84-4236-b2d9-b515143a19a1)
+
 **Python爬取环球网新闻**
-![输入图片说明](Pythom%E7%88%AC%E5%8F%96%E7%8E%AF%E7%90%83%E7%BD%91%E6%96%B0%E9%97%BB%E6%95%B0%E6%8D%AE.png)           
+![Pythom爬取环球网新闻数据](https://github.com/user-attachments/assets/5a102a36-2b6b-48b9-a90e-faecaee489d0)
+
 **源码获取**：[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
 
 
