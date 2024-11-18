@@ -1,4 +1,4 @@
-![个人中心](https://github.com/user-attachments/assets/fb3b6826-78ba-49f7-94f2-22bcda4150ec)# 基于协同过滤算法的个性化新闻推荐系统
+# 基于协同过滤算法的个性化新闻推荐系统
 # Collaborative Filtering News Recommend System Online
  基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的SSM框架实现基于用户、物品的协同过滤推荐算法）实现了UserCF和ItemCF的协同过滤推荐算法。
 Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**基于用户、物品的协同过滤推荐算法**通过**python爬虫**爬取环球日报新闻实现**实时计算推荐**。
@@ -23,7 +23,8 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
      爬取环球日报新闻数据  
 
 **源码获取：**[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
-![image](https://github.com/user-attachments/assets/bfcbe910-6127-45ce-97c3-59a16cc3b36a)
+![image](https://github.com/user-attachments/assets/4ba0ea64-95aa-48a1-98ee-c372b28a3db4)
+
 
 **项目结构**
 ![数据库](https://github.com/user-attachments/assets/cf42b259-4699-4059-b666-f2e4b89787e6)
