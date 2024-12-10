@@ -3,6 +3,13 @@
  基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的SSM框架实现基于用户、物品的协同过滤推荐算法）实现了UserCF和ItemCF的协同过滤推荐算法。
 Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**基于用户、物品的协同过滤推荐算法**通过**python爬虫**爬取环球日报新闻实现**实时计算推荐**。
 **源码获取**：[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
+
+**系统项目创新点**
+使用了基于用户和基于物品，根据评分和收藏数据，进行混合推荐，及将两种协同过滤
+推荐算法的结果全部输出，同时采用基于统计的热点推荐解决冷启动和数据稀疏性问题。
+**冷启动：**一个新用户第一次登录，没有评分和收藏数据，那么没有办法进行个性化推荐；
+**数据稀疏性：**会伴随项目的整个运行过程，比如：项目刚上线，新闻数据很多，但是用户及用户的评分、收藏数据较少，用户之间没有交集，那么有些用户就没有推荐结果
+
 **开发工具**：IDEA，jdk1.8，Mysql8，navicat数据库管理工具，Tomcat，Maven.
 **后端使用**：SSM(Spring+SpringMVC+Mybatis)开发框架。
 **前端使用**：javascript脚本，jquery脚本，用户端使用bootstrap前端框架，管理员端使用layui前端框架，layer弹窗组件等。
@@ -47,6 +54,8 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
 **协同过滤推荐算法**
 ![01基于用户推荐](https://github.com/user-attachments/assets/271a8e6b-6fce-4fb3-9a5b-6529eaf49ff3)
 ![基于物品的推荐](https://github.com/user-attachments/assets/bc22e8c7-1c84-4236-b2d9-b515143a19a1)
+![微信图片编辑_20241210133240](https://github.com/user-attachments/assets/04b8382d-84c8-4073-8e5c-0827c8e22f7f)
+
 
 **Python爬取环球网新闻**
 ![Pythom爬取环球网新闻数据](https://github.com/user-attachments/assets/5a102a36-2b6b-48b9-a90e-faecaee489d0)
