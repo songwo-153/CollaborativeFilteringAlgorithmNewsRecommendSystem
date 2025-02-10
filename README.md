@@ -17,6 +17,15 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
 **后端使用**：SSM(Spring+SpringMVC+Mybatis)开发框架。
 **前端使用**：javascript脚本，jquery脚本，用户端使用bootstrap前端框架，管理员端使用layui前端框架，layer弹窗组件等。
 
+## 智能新闻推荐系统项目在线演示地址：
+[前台演示地址（推荐用谷歌浏览器）：http://1.95.71.218:8081/NewsRecommendOnline/](http://1.95.71.218:8081/NewsRecommendOnline/)      
+  
+[后台演示地址（用谷歌浏览器）：http://1.95.71.218:8081/NewsRecommendOnline/admin/login](http://1.95.71.218:8081/NewsRecommendOnline/admin/login)    
+
+[第二个新闻推荐前台演示地址：http://1.95.71.218:8090/WebNewsRecommendSystem/](http://1.95.71.218:8090/WebNewsRecommendSystem/)    
+
+[第二个新闻推荐后台演示地址：http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login](http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login)     
+
 # 功能实现
 
 **系统前台**：用户具有注册、登录、注销、浏览新闻、搜索新闻、信息修改、密码修改、喜好标签、新闻评分、新闻收藏、新闻评论、排行榜、热点推荐、个性化推荐新闻等功能；
